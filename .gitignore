@@ -1,3 +1,5 @@
 *.dat
 !a.dat
 results/
+.Rproj.user
+pluto.txt
